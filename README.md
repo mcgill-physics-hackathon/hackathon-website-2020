@@ -1,5 +1,7 @@
 # hackathon-website-2020
 
+Repository for the website for the 2020 McGill Physics Hackathon, as you might have guessed. 
+
 The Sponsorship Prospectus is too big to be stored on github. So, to access it, visit the following link:
 https://drive.google.com/file/d/1KJpUB9OzEDukmGGimbkL8O5UkOzOjfM2/view?usp=sharing
 
