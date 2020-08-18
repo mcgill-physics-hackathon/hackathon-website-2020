@@ -6,7 +6,7 @@ Where is this website hosted?
 -----------------------------
 The website is hosted on Nick's personal website, i.e., at https://www.physics.mcgill.ca/~nvieira/hackathon/ . 
 
-Juan Gallego has set it up so that this page can also be accessed via https://www.physics.mcgill.ca/hackathon/ .
+It has been set up (by Juan Gallego) so that this page can also be accessed via https://www.physics.mcgill.ca/hackathon/ . 
 
 Pushing the website
 -------------------
