@@ -12,12 +12,6 @@ Pushing the website
 -------------------
 To push an updated version of the website, please let Nick know. Auto-updating and pulling from this repository will be added in the future. 
 
-Sponsorship prospectus
-----------------------
-The sponsorship prospectus PDF file is too big (>25 MB) to be stored on github. To access the full, large version, click [here](
-https://drive.google.com/file/d/1KJpUB9OzEDukmGGimbkL8O5UkOzOjfM2/view?usp=sharing). To access a compressed version, click [here](https://drive.google.com/file/d/1u3QWs-4HtXCn2XIulRI_XG_jVbvuZnJD/view?usp=sharing).
-
-
 
 
 
